@@ -1,0 +1,8 @@
+{
+  "url": "ssh://tdimiduk@tgd.me/home/tdimiduk/rhyolite.git",
+  "rev": "abe8dd7aae0bd7bfc38f271ce08c707a3e917119",
+  "sha256": "0cs5fnv6jbgx52bzw2qc2f1qz54rm4vs5plw0j5bqy75k95701ic",
+  "private": true,
+  "fetchSubmodules": false,
+  "branch": "main"
+}
